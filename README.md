@@ -1,4 +1,4 @@
-<img widht= "900" align="center" src="https://media.tenor.com/H_loBGkJiMYAAAAd/code-daddycoolcool.gif">
+<img widht= "900" align="center" src="[https://media.tenor.com/H_loBGkJiMYAAAAd/code-daddycoolcool.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAwwsjxh8I-tmSw_8Dc7bBtae6S4AUs53Og&usqp=CAU)">
 
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">🌱 В настоящие время я изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
