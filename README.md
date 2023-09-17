@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17252
-Fork on GitHub
-4951
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">🌱 В настоящие время я изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
 
