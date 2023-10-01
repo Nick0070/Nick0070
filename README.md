@@ -1,7 +1,11 @@
 <img widht= "900" align="center" src="https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/EJsJFv-/videoblocks-hacker-code-running-down-a-computer-screen-terminal_s3odcroil_thumbnail-1080_01.png">
 
 <h1 align="center">Привет 👋, я Никита</h1>
-<h3 align="center">🌱 В настоящие время я изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
+<h3 align="center">🌱 Изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
+<h3 align="center"> Прайс лист:</h3>
+<h3 align="center"> Лендинг сайт - 15.000 ₽</h3>
+<h3 align="center"> Сайт под ключ - 30.000 ₽</h3>
+<h3 align="center"> Сайт с каталогом товаров - 50.000 ₽</h3>
 
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
