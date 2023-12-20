@@ -1,4 +1,4 @@
-<img widht= "900" align="center" src="https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/EJsJFv-/videoblocks-hacker-code-running-down-a-computer-screen-terminal_s3odcroil_thumbnail-1080_01.png">
+<img widht= "900" align="center" src="[https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/EJsJFv-/videoblocks-hacker-code-running-down-a-computer-screen-terminal_s3odcroil_thumbnail-1080_01.png](https://i.gifer.com/3rNn.gif)">
 
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">🌱 Изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
