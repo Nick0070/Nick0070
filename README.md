@@ -1,4 +1,4 @@
-<img widht= "100%" align="center" src="https://media1.giphy.com/media/Qg3U58VNZpSoM/giphy.gif?cid=ecf05e47s22p74mkz4rlpb5tff0cm5jav6lbilwq4tka0jwg&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
+<img widht= "100%" height="1200" align="center" src="https://media1.giphy.com/media/Qg3U58VNZpSoM/giphy.gif?cid=ecf05e47s22p74mkz4rlpb5tff0cm5jav6lbilwq4tka0jwg&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
 <!-- <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="100%"/> -->
 
 <h1 align="center">Привет 👋, я Никита</h1>
