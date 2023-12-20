@@ -1,4 +1,4 @@
-<img widht= "7000"  align="center" src="https://webstorage.public.gr/Product-Images/1824271/besco3.gif">
+<img widht= "70000"  align="center" src="https://webstorage.public.gr/Product-Images/1824271/besco3.gif">
 
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">🌱 Изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
