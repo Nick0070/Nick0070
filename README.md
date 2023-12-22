@@ -13,8 +13,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://www.hackerrank.com/nlychyov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nlychyov" height="50" width="40" /></a>
 </p>
-## Мои работы
-<table><tr><td valign="top" width="33%">
+
+<h1 align="center">Мои работы</h1>
 
 
 ## Технологие, которые знаю 
