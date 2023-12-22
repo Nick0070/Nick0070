@@ -1,5 +1,4 @@
 <div align="center"><img widht= "100%" height="100%" align="center" src="https://media1.giphy.com/media/Qg3U58VNZpSoM/giphy.gif?cid=ecf05e47s22p74mkz4rlpb5tff0cm5jav6lbilwq4tka0jwg&ep=v1_gifs_related&rid=giphy.gif&ct=g" ></div>
-<!-- <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="100%"/> -->
 
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">🌱 Изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
@@ -14,6 +13,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://www.hackerrank.com/nlychyov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nlychyov" height="50" width="40" /></a>
 </p>
+## Мои работы
+
+
 
 ## Технологие, которые знаю 
 <table><tr><td valign="top" width="33%">
