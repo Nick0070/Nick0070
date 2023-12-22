@@ -15,6 +15,7 @@
 </p>
 
 <h1 align="center">Мои работы</h1>
+<div align="center"><img widht= "100%" height="100%" align="center" src="https://bel-dosaaf.ru/wp-content/uploads/2022/11/logo.png" ></div>
 
 
 ## Технологие, которые знаю 
