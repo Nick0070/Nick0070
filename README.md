@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/nlychyov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nlychyov" height="50" width="40" /></a>
 </p>
 ## Мои работы
-
+<table><tr><td valign="top" width="33%">
 
 
 ## Технологие, которые знаю 
