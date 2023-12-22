@@ -14,8 +14,16 @@
 <a href="https://www.hackerrank.com/nlychyov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nlychyov" height="50" width="40" /></a>
 </p>
 
-<h1 align="center">Мои работы</h1>
-<div align="center"><img widht= "50px" height="50px" align="center" src="https://bel-dosaaf.ru/wp-content/uploads/2022/11/logo.png" ></div>
+  <h1 align="center">Мои работы</h1>
+<div align="center">
+  <a href="https://bel-dosaaf.ru" target="_blank">
+    <img widht= "50px" height="50px" align="center" src="https://bel-dosaaf.ru/wp-content/uploads/2022/11/logo.png" >
+  </a>
+   <a href="https://bel-dosaaf.ru" target="_blank">
+    <img widht= "50px" height="50px" align="center" src="https://bel-dosaaf.ru/wp-content/uploads/2022/11/logo.png" >
+  </a>
+  
+</div>
 
 
 ## Технологие, которые знаю 
