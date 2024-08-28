@@ -1,11 +1,6 @@
 <div align="center"><img widht= "100%" height="100%" align="center" src="https://media1.giphy.com/media/Qg3U58VNZpSoM/giphy.gif?cid=ecf05e47s22p74mkz4rlpb5tff0cm5jav6lbilwq4tka0jwg&ep=v1_gifs_related&rid=giphy.gif&ct=g" ></div>
 
-<h1 align="center">Привет 👋, я Никита</h1>
-<h3 align="center">🌱 Изучаю React и беру заказы на сайты, которые реализовываю на Wordpress</h3>
-<h3 align="left"> Прайс лист:</h3>
-<h3 align="left"> Лендинг сайт - 15.000 ₽</h3>
-<h3 align="left"> Сайт под ключ - 30.000 ₽</h3>
-<h3 align="left"> Сайт с каталогом товаров - 50.000 ₽</h3>
+
 
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
