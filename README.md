@@ -1,6 +1,6 @@
 <div align="center"><img widht= "100%" height="100%" align="center" src="https://media1.giphy.com/media/Qg3U58VNZpSoM/giphy.gif?cid=ecf05e47s22p74mkz4rlpb5tff0cm5jav6lbilwq4tka0jwg&ep=v1_gifs_related&rid=giphy.gif&ct=g" ></div>
 
-<h1 align="center">Привет 👋, я Никита</h1>
+
 
 
 <h3 align="left">Связь со мной:</h3>
