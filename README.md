@@ -1,4 +1,4 @@
-<div align="center"><img widht= "100%" height="100%" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79ed63bb-18f3-4a65-a14d-0b1b09118e09/darmjmf-a112912c-4d2a-41a3-8aa0-3c6b5d77f6d6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5ZWQ2M2JiLTE4ZjMtNGE2NS1hMTRkLTBiMWIwOTExOGUwOVwvZGFybWptZi1hMTEyOTEyYy00ZDJhLTQxYTMtOGFhMC0zYzZiNWQ3N2Y2ZDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zO3c9nfxBD5Ho_2cSkTJ010kGz3o88OnwA1kGkELtNg" ></div>
+<div align="center"><img widht= "100%" height="100%" align="center" src="https://media.tenor.com/J5sbxsEV_YgAAAAd/dedsec-join-us.gif" ></div>
 
 
  <h1 align="center"></h1>
