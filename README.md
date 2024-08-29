@@ -1,4 +1,4 @@
-<div align="center"><img widht= "100%" height="100%" align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fjunguler%2Fart%2Fdedsec-dude-purple-614836005&psig=AOvVaw0YhZU1zDTtjPasoUEdxkKp&ust=1725019851969000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjMnu6VmogDFQAAAAAdAAAAABAZ" ></div>
+<div align="center"><img widht= "100%" height="100%" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/da622hx-09459178-ea7c-4c3d-8021-20c355bb39d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZGE2MjJoeC0wOTQ1OTE3OC1lYTdjLTRjM2QtODAyMS0yMGMzNTViYjM5ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cQMuFlvGD4lfnLnLUfPxmdtojfv7hMxUVmVamRrF6lc" ></div>
 
 
  <h1 align="center"></h1>
