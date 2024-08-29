@@ -1,4 +1,4 @@
-<div align="center"><img widht= "100%" height="100%" align="center" src="https://media1.giphy.com/media/Qg3U58VNZpSoM/giphy.gif?cid=ecf05e47s22p74mkz4rlpb5tff0cm5jav6lbilwq4tka0jwg&ep=v1_gifs_related&rid=giphy.gif&ct=g" ></div>
+<div align="center"><img widht= "100%" height="100%" align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fjunguler%2Fart%2Fdedsec-dude-purple-614836005&psig=AOvVaw0YhZU1zDTtjPasoUEdxkKp&ust=1725019851969000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjMnu6VmogDFQAAAAAdAAAAABAZ" ></div>
 
 
  <h1 align="center"></h1>
