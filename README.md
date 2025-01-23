@@ -19,7 +19,7 @@
     <img widht= "50px" height="50px" align="center" src="https://fts31.ru/wp-content/uploads/2023/09/cropped-last.png" >
   </a>
    <a href="https://furnifuture.ru" target="_blank">
-     <img widht= "50px" height="50px" align="center" src="https://furnifuture.ru/wp-content/uploads/2024/11/furnilogo-06.svg" >
+     <img widht= "50px" height="50px" align="center" src="[https://furnifuture.ru/wp-content/uploads/2024/11/furnilogo-06.svg](http://furnifuture.ru/wp-content/uploads/2025/01/cropped-furnifavi-25.png)" >
   </a>
 
   
