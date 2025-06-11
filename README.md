@@ -15,12 +15,8 @@
   <a href="https://bel-dosaaf.ru" target="_blank">
     <img  style="margin: 10" widht= "50px" height="50px" align="center" src="https://bel-dosaaf.ru/wp-content/uploads/2022/11/logo.png" >
   </a>
-   <a href="https://fts31.ru" target="_blank">
-    <img widht= "50px" height="50px" align="center" src="https://fts31.ru/wp-content/uploads/2023/09/cropped-last.png" >
-  </a>
-   <a href="https://furnifuture.ru" target="_blank">
-     <img widht= "50px" height="50px" align="center" src="https://furnifuture.ru/wp-content/uploads/2025/01/cropped-furnifavi-25.png" >
-  </a>
+
+
 
   
   
